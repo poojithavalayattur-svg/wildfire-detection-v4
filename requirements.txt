@@ -1,7 +1,7 @@
 streamlit
-ultralytics
 opencv-python-headless
+ultralytics
 numpy
 Pillow
-torch
-torchvision
+torch --index-url https://pytorch.org
+torchvision --index-url https://pytorch.org
