@@ -1,6 +1,6 @@
 streamlit
+opencv-python-headless
 ultralytics
-opencv-python-headless==4.8.0.74
 numpy<2.0.0
 Pillow
 torch --index-url https://pytorch.org
