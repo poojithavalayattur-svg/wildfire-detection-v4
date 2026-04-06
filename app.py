@@ -12,7 +12,7 @@ st.title("🔥 AIoT Wildfire Detection System")
 st.write("Real-time Fire & Smoke Detection using YOLOv8")
 
 # Load model
-model = YOLO("runs/detect/train/weights/best.pt")
+model = YOLO("best.pt")
 
 # Sidebar
 st.sidebar.title("Options")
